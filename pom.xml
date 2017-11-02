@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>edu.greenriver.it</groupId>
-    <artifactId>Monopoly TDD Example</artifactId>
+    <artifactId>Monopoly-TDD-Example</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
